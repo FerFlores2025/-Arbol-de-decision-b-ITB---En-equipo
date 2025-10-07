@@ -72,4 +72,4 @@ Ejecutar los scripts desde la consola o un entorno como VSCode o Anaconda Prompt
 
 Los gráficos se mostrarán automáticamente y el archivo `Predicciones_Final.xlsx` se generará en la misma carpeta.
 
-## FIN
+
